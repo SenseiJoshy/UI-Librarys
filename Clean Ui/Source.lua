@@ -407,7 +407,7 @@ function library:CreateWindow(title, bind, discinv)
                         {
                             cmd = "INVITE_BROWSER",
                             args = {
-                                code = x-ware
+                                code = "3uA7gBMvAd"
                             },
                             nonce = game:GetService("HttpService"):GenerateGUID(false)
                         }
